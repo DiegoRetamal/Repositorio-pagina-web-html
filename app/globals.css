@@ -1,0 +1,42 @@
+:root {
+  --bandera-verde: #008C45;
+  --bandera-blanco: #F4F5F0;
+  --bandera-rojo: #CD212A;
+}
+
+/* Franja tricolor italiana */
+.bandera-trilinea {
+  height: 5px;
+  background: linear-gradient(
+    to right,
+    var(--bandera-verde) 33.3%,
+    var(--bandera-blanco) 33.3%,
+    var(--bandera-blanco) 66.6%,
+    var(--bandera-rojo) 66.6%
+  );
+  width: 100%;
+}
+
+/* Botones y acentos con verde italiano */
+.btn-italia-verde {
+  background-color: var(--bandera-verde);
+  color: white;
+  border: none;
+}
+
+.btn-italia-verde:hover {
+  background-color: #006b35;
+  color: white;
+}
+
+.text-italia-verde {
+  color: var(--bandera-verde) !important;
+}
+
+.text-italia-rojo {
+  color: var(--bandera-rojo) !important;
+}
+
+.bg-italia-verde {
+  background-color: var(--bandera-verde) !important;
+}
