@@ -35,7 +35,7 @@ export default function RootLayout({
         <nav className="navbar navbar-expand-lg bg-dark navbar-dark sticky-top">
           <div className="container">
             <Link className="navbar-brand fw-bold text-danger fs-3" href="/">
-              🍕 Bella Pizza
+              🍕 Delicias De Lo Errazuriz
             </Link>
             <button
               className="navbar-toggler"
@@ -70,7 +70,7 @@ export default function RootLayout({
 
         {/* Footer Global */}
         <footer className="bg-dark text-light py-4 text-center mt-5">
-          <p className="mb-0">🍕 Bella Pizza &copy; 2026 - Creado con Next.js</p>
+          <p className="mb-0">🍕  Delicias De Lo Errazuriz &copy; 2026 - Creado con Next.js</p>
         </footer>
       </body>
     </html>
