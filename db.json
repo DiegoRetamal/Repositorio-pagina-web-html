@@ -1,0 +1,53 @@
+{
+  "pizzas": [
+    {
+      "id": 1,
+      "nombre": "Pepperoni Suprema",
+      "precio": 8990,
+      "desc": "Doble pepperoni con queso mozzarella.",
+      "img": "https://images.unsplash.com/photo-1534308983496-4fabb1a015ee?auto=format&fit=crop&w=500&q=80"
+    },
+    {
+      "id": 2,
+      "nombre": "Cuatro Quesos",
+      "precio": 9490,
+      "desc": "Mozzarella, Gorgonzola, Parmesano y Provolone.",
+      "img": "https://images.unsplash.com/photo-1604382354936-07c5d9983bd3?auto=format&fit=crop&w=500&q=80"
+    },
+    {
+      "id": 3,
+      "nombre": "Margarita Italiana",
+      "precio": 7990,
+      "desc": "Tomates frescos, albahaca y aceite de oliva.",
+      "img": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?auto=format&fit=crop&w=500&q=80"
+    },
+    {
+      "id": 4,
+      "nombre": "BBQ Chicken",
+      "precio": 9990,
+      "desc": "Pollo a la parrilla, cebolla morada y salsa BBQ.",
+      "img": "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=500&q=80"
+    },
+    {
+      "id": 5,
+      "nombre": "Hawaiiana Especial",
+      "precio": 8490,
+      "desc": "Jamón acaramelado y trozos de piña fresca.",
+      "img": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?auto=format&fit=crop&w=500&q=80"
+    },
+    {
+      "id": 6,
+      "nombre": "Vegetariana Garden",
+      "precio": 8290,
+      "desc": "Pimentón, champiñones, aceitunas y choclo.",
+      "img": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?auto=format&fit=crop&w=500&q=80"
+    },
+    {
+      "id": 7,
+      "nombre": "Napolitana Clásica",
+      "precio": 8790,
+      "desc": "Salsa de tomate, queso mozzarella, rodajas de tomate fresco, orégano y aceitunas negras.",
+      "img": "https://images.unsplash.com/photo-1595854341625-f33ee10dbf94?auto=format&fit=crop&w=500&q=80"
+    }
+  ]
+}
